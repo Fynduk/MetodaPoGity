@@ -47,7 +47,7 @@ git config --global user.email "ВАШ EMAIL"
 
 Необходимо форкнуть (fork) приватный репозиторий, относящийся к лабораторной работе, которую вы хотите сдать. Для этого необходимо зайти в репозиторий, соответствующий работе (например, icg-course/icg_labwork3 для 3-й ЛР), и нажать кнопку Fork.
 
-![Fork](https://github.com/icg-course/MetodaPoGity/blob/master/img/fork.png)
+![Fork](https://github.com/Fynduk/MetodaPoGity/blob/master/img/fork.png)
 
 Через несколько секунд на сервере GitHub будет создана ваша копия репозитория проекта.
 
